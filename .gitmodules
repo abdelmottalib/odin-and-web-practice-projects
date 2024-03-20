@@ -1,0 +1,39 @@
+[submodule "Dictionary-app"]
+	path = Dictionary-app
+	url = git@github.com:abdelmottalib/Dictionary-app
+[submodule "Password-generator"]
+	path = Password-generator
+	url = git@github.com:abdelmottalib/Password-generator
+[submodule "odin-etch-sketch"]
+	path = odin-etch-sketch
+	url = git@github.com:abdelmottalib/odin-etch-sketch
+[submodule "github-profiles"]
+	path = github-profiles
+	url = git@github.com:abdelmottalib/github-profiles
+[submodule "books-app"]
+	path = books-app
+	url = git@github.com:abdelmottalib/books-app
+[submodule "spock-rock-game."]
+	path = spock-rock-game.
+	url = git@github.com:abdelmottalib/spock-rock-game.
+[submodule "tell-me-a-joke-with-js"]
+	path = tell-me-a-joke-with-js
+	url = git@github.com:abdelmottalib/tell-me-a-joke-with-js
+[submodule "dark-mode"]
+	path = dark-mode
+	url = git@github.com:abdelmottalib/dark-mode
+[submodule "infinite-scroll"]
+	path = infinite-scroll
+	url = git@github.com:abdelmottalib/infinite-scroll
+[submodule "calculator-js"]
+	path = calculator-js
+	url = git@github.com:abdelmottalib/calculator-js
+[submodule "picture-in-picture"]
+	path = picture-in-picture
+	url = git@github.com:abdelmottalib/picture-in-picture
+[submodule "review-card-uidd"]
+	path = review-card-uidd
+	url = git@github.com:abdelmottalib/review-card-uidd
+[submodule "javascript-memory-match"]
+	path = javascript-memory-match
+	url = git@github.com:abdelmottalib/javascript-memory-match
